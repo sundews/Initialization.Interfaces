@@ -10,6 +10,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		Directory.Build.props = Directory.Build.props
 		Directory.Build.targets = Directory.Build.targets
 		..\.github\workflows\dotnet.yml = ..\.github\workflows\dotnet.yml
+		..\README.md = ..\README.md
 	EndProjectSection
 EndProject
 Global
@@ -34,11 +35,6 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{85B4B599-D41B-4C91-9466-300FAF26FDDC} = {55B8E64F-48DE-438B-802A-AFCE4A653220}
-		{A010D62B-1126-4EB3-9A0C-9F8B36533A1E} = {55B8E64F-48DE-438B-802A-AFCE4A653220}
-		{67BDE3DB-85F8-45A6-B61D-DF08C92E8746} = {55B8E64F-48DE-438B-802A-AFCE4A653220}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {8CF8288F-56DB-43C6-A24A-314681963A4D}
