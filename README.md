@@ -1,3 +1,3 @@
 # Initialization.Interfaces
 
-Package for introducing the IInitializable and IAsyncInitializable interface.
+Package providing the IInitializable, IAsyncInitializable and IInitializationReporter interfaces.

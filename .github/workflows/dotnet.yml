@@ -9,7 +9,7 @@ on:
   pull_request:
 
 concurrency:
-  group: ${{ github.ref == 'refs/heads/main' && github.ref || github.run_id }}
+  group: ${{ github.ref == 'refs/tags/release' && github.ref || github.run_id }}
 
 jobs:
   build:
